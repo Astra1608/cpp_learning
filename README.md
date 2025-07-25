@@ -19,3 +19,11 @@ Topics used: string, cin, getline, tolower(), if-else, and user input handling.
 
 📄 [View Code](./SmartAssistant_TaskRecommender.cpp)
 
+3) Project: Mind Reader Game (Guessing Game)
+A beginner-level interactive C++ game where users ask up to 5 Yes/No questions to guess a secret character. After the questions, a hint is provided to make a final guess. It sharpens logical thinking and teaches how to use string searching and conditional checks.
+
+Topics used: string, getline, tolower(), find(), bool, conditional statements, ternary operator, and interactive input/output.
+
+📄 [View Code](./MindReaderGame.cpp)
+
+
